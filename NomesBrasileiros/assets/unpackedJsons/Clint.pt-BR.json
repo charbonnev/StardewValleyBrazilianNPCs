@@ -1,0 +1,42 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Err... oi. Meu nome é Clint#$e#Sou o ferreiro da cidade. Caso precise de alguém para melhorar suas ferramentas, sou o cara certo.",
+        "Mon": "Sim. Sou um ferreiro.#$e#Meu pai também era.#$e#O meu avô também.$u#$q 9/9 Mon_old#Aposto que você não consegue adivinhar o que o meu bisavô era...#$r 9 30 Mon_9#Ferreiro.#$r 9 50 Mon_clown#Palhaço.#$r 9 -50 Mon_rude#Um babaca sarcástico.",
+        "Mon_old": "E sim, o meu tataravô também era ferreiro.",
+        "Mon_9": "Como você adivinhou?$u",
+        "Mon_clown": "Rá, rá, rá. Boa!$h",
+        "Mon_rude": "Uau. Que grosseria. Eu só estava sendo engraçado e você me tratou supermal.",
+        "Mon4": "Fique feliz por trabalhar na fazenda, @. É muito melhor trabalhar ao ar livre do que passar o dia todo ao lado da fornalha quente.#$e#Sou um ferreiro apenas porque meu pai me obrigou.",
+        "Tue": "Se você quiser melhorar suas ferramentas, vai precisar me fornecer o minério correto.#$e#E pagar uma taxa, claro.",
+        "Wed": "Ei, . Do que você precisa?",
+        "Wed6": "Ah, oi @. Desculpe se pareço meio desarrumado. Trabalhei na fornalha o dia todo.$h#$e#Então... você precisa de algo ou só veio me visitar?",
+        "Thu": "Os negócios estão meio devagar ultimamente.#$e#Que tal melhorar suas ferramentas? Um pouco de dinheiro não me faria mal.",
+        "Fri": "O clima não importa muito para mim. Costumo ficar perto da minha oficina o ano todo.#$e#Deprimente, né?",
+        "Sat": "Às vezes, me pergunto como vim parar nesta cidade.$u",
+        "Sat6": "Droga! Estou velho demais para tentar algo novo. Tudo que tenho a fazer é esperar por anos e anos de trabalho suado em uma fornalha quente.",
+        "Sun": "Você não tem nada para fazer?",
+        "Sun4": "E aí, como estão suas ferramentas?",
+        "event_advice1": "Certo... Vou me lembrar disso.",
+        "event_advice2": "Esse é o problema... Eu ajo naturalmente... mas não dá certo.$s",
+        "summer_Mon4": "Fique feliz por trabalhar na fazenda, @. É muito melhor trabalhar ao ar livre do que passar o dia todo ao lado da fornalha quente.#$e#Sou um ferreiro apenas porque meu pai me obrigou.",
+        "summer_Wed6": "Ah, oi @! Desculpe se pareço meio desarrumado. Trabalhei na fornalha o dia todo.$h#$e#Então... você precisa de algo ou só veio me visitar?",
+        "summer_Thu": "Os negócios estão meio devagar ultimamente.#$e#Que tal melhorar suas ferramentas? Um pouco de dinheiro não me faria mal.",
+        "cc_Minecart": "De alguma maneira, o antigo sistema de vagonetas voltou a funcionar. É muito conveniente na hora de deslocar-se nas minas.#$b#Só não espere que ela vá funcionar para sempre... se ela voltou do nada, pode muito bem parar de uma hora para a outra..."
+    }
+}

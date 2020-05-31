@@ -1,0 +1,34 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ah, um estranho! Meu nome é Vincent.#$b#Mamãe me disse para nunca falar com estranhos... Mas você parece legal.",
+        "Mon": "Só quero ser como meu irmãozão quando eu crescer!$h#$e#Tá?! Tchau!",
+        "Mon4": "$d kent#Ainda bem que o pai voltou... mas ele está diferente do que eu lembrava...$s|Papai nunca fica muito em casa... Sinto falta de brincar com ele.$s",
+        "Tue": "*Aaah*... Mamãe não quer deixar eu comer mais bala de goma hoje.$s",
+        "Tue6": "Você guarda segredo, moço?^Você guarda segredo, moça?$u#$b#Eu quero casar com a tia Penny quando crescer.#$e#Mas não diz para ela, tá?$u",
+        "Wed": "Eu quero caçar insetos, mas mamãe fica muito zangada quando me sujo.$u#$b#É uma escolha difícil.",
+        "Thu": "Estou com fome! Cadê a minha mãe?$s",
+        "Thu2": "Você não é chato como a maioria dos adultos!",
+        "Fri": "#$c .3#Eca! É Noite de beterraba hoje...$s#$e#Ah, não! Mamãe vai fazer sopa de lentilhas hoje.$s",
+        "Sat_1": "Papai vai voltar em breve!#$b#Espero que ele me traga brinquedos.$u",
+        "Sat": "A tia Penny me faz ler um livro novo toda semana.$s#$b#E ela me deixa escolhê-los às vezes!",
+        "Sat8": "$d kent#Papai está meio estranho desde que voltou. O que será que aconteceu com ele?$s#$b#Ele não brinca mais comigo.$s|Meu pergunto se meu pai vai voltar um dia...$s",
+        "Sun": "Oi, moço!^Oi, moça!",
+        "Sun10": "Oi, tio @!^Oi, tia@!#$e#Não diga à mamãe... mas você é meu adulto favorito.$h"
+    }
+}

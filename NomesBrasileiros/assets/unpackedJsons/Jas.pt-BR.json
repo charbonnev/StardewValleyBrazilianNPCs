@@ -1,0 +1,39 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "...$u#$b#Oi...$u",
+        "Mon": "Ah... você está procurando pela tia Marnie?$u",
+        "Mon4": "Oi, sr. @.^Oi, srª@.#$e#É divertido morar em uma fazenda.$h",
+        "Tue": "Quê? Hi, hi$h#$e#... oi.",
+        "Tue6": "Você pode brincar com minhas bonecas, se quiser. Só escove o cabelo delas quando acabar.",
+        "Wed": "...$u",
+        "Wed2": "... Oi.$u",
+        "Wed4": "A tia Marnie não me deixa sair depois das 6. Não é justo!$s#$e#Não tenho mais medo do escuro!",
+        "Thu": "Não posso falar com estranhos...$u",
+        "Thu2": "Tia Penny está me ensinando a escrever com letra de mão.$h#$e#A letra dela é tão bonita!",
+        "Fri": "... Não conheço você.$u",
+        "Fri2": "Gostou do meu laço?",
+        "Fri4": "Gosto de viver na fazenda... minha comida favorita é sorvete feito com o leite de nossas vacas.",
+        "Sat": "Você tem cheiro de grama.$u",
+        "Sat2": "Às vezes, eu procuro por lagostins no rio. Não conte para a Tia Marnie... mas já alimentei uma vaca uma vez.#$e#Ela amou.",
+        "Sat8": "Você é sempre tão gentil comigo, seu @$h.^Você é sempre tão gentil comigo, dona @.$h#$e#Os adultos geralmente são cruéis e chatos, mas você é diferente.",
+        "Sun": "Hã... v-você quer alguma coisa?$u#$e#Não posso falar com estranhos.$u",
+        "Sun2": "O Shane sai muito, tia Marnie está ocupada o tempo todo... então tenho que inventar minhas próprias brincadeiras.#$e#Fico grata por todos os meus brinquedos.$h",
+        "Sun10": "Você sabia que o Shane é o meu padrinho? Ele era um amigo dos meus pais.$s#$e#... eles morreram. Snif...$s"
+    }
+}

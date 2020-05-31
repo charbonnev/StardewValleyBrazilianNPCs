@@ -1,0 +1,34 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Oi procê! É muito bom vê os mais moço vindu pro Vale. Não é um trem muito comum esses dia.",
+        "Mon": "Oi, fio.^Oi, fia.#$b#Parece um tempo bão pra pescá, né?",
+        "Mon4": "Ocê tá tendo sorte por essas banda? Ocê vai sê um bão pescador se si esforçá muito.",
+        "Tue": "O verdadero pescadô respeita as água... não si esquece.",
+        "Tue6": "Euzinho aqui já fui pescadô, sabe? Cresci sendo marinhero nas Ilhas Samambaia, vivendo de peixe em peixe.#$e#A vida de pesca é dura, mas tem algo que faz ocê continuá.",
+        "Wed": "Alguns peixe vem e vai com as istação. Outros só aparece à noite ou na chuva.",
+        "Thu": "*Blá, blá*... Hã? Eu diria meus pensamento procê, mais é segredo di pescadô.",
+        "Thu2": "Tem uns rumores qui tem um peixe raro pressas bandas... mas só um pescadô ixperiente tem alguma chance co ele.#$e#Ocê pricisa da mió isca qui achá se quisé pescá um peixe raro.",
+        "Fri": "Si quisé qui o peixe morda, tem qui colocá uma isca no anzol.",
+        "Sat": "Se a pescaria aqui aumentá, posso aumentá o estoque da loja.",
+        "Sat8": "Como vai a pesca procê?#$e#Tento pescar o quanto posso, mas não é fácil quando se tem uma loja pra tocá.",
+        "Sun": "Se ocê comprá uma vara de pesca de alta qualidade, vai conseguir colocá uma isca e prende na linha.#$b#A isca faiz  o peixe mordê mais rápido. Seu equipamento de pesca pode facilitá  fisgá o peixe.#$e#Há vários tipo de equipamento, cada um di um jeito. Quase sempre é meio frágil, então não se assuste se seu equipamento quebrar depois de um tempo.",
+        "Sun10": "Ora, se não é o capitão @!^Ora, se não é a capitã @!$h#$e#Eu daria um desconto na isca se pudesse pagar por ela.$s",
+        "FullCrabPond": "*sniff*... Ah... Esse cheirin familiar. O cê tem criado caranguejo, não é?#$b#O cê é um home igualzin a mim, @. Hah!$h^O cê é uma muié igualzin a mim, @. Hah!$h#$b#Aqui, toma isso. Eu encontrei na praia... Tenho guardado para uma ocasião especial de mais da conta. Não é todo dia que me aparece um admirador de caranguejo! [797]"
+    }
+}

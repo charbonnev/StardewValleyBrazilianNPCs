@@ -1,0 +1,66 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "Não conheço você. Por que você está falando comigo?",
+        "Mon2": "Eu nem conheço você... Por que você está falando comigo?",
+        "Mon4": "Ei, . Desculpe se fui mal educado quando nos vimos pela primeira vez.#$e#Demoro um tempo para me abrir com estranhos.",
+        "Mon10": "Você sente que o mundo inteiro está criticando você como se fosse um inseto nojento?",
+        "Tue": "Quê? O que você quer? Vá embora.",
+        "Tue2": "O que você quer de mim? Dinheiro? Eu daria a você um pote de ouro só para me deixar em paz!",
+        "Tue4": "Sempre que tento algo novo, esse algo sai incrivelmente errado. Você aprende a se isolar em uma bolha.",
+        "Tue6": "A vida não é tão ruim... pelo menos posso comer pizza congelada e ovos.$u",
+        "Wed": "Não, não tenho tempo para conversar com você.",
+        "Wed8": "Acho que me apeguei à Marnie e à Jasmim. Somos um amontoado de pessoas, mas parece uma família caótica.#$e#Eu nunca tive bem uma família quando era criança.$s",
+        "Wed4": "$d Joja#*Aaah...* Todo dia é a mesma coisa. Organizar aquelas prateleiras horríveis, ir ao saloon, e ficar sem dormir a noite inteira de preocupação.$s|Eu odiava o meu trabalho no Mercado Joja, mas agora que estou desempregado, me sinto ainda pior.$s",
+        "Thu": "O que você quer? Deixe-me em paz.",
+        "Thu4": "Como você é insistente! Acho que estou surpreso de alguém ter interesse em falar comigo.",
+        "Thu6": "Blé... Cadê a Joja-Cola?",
+        "Fri": "Você não tem nada para fazer?",
+        "JojaMart": "%Shane está trabalhando duro. Ele não parece interessado em conversar.",
+        "Fri4": "$d Joja#Qual é o sentido de viver se tudo o que você faz é trabalhar?|Não consigo pagar o aluguel, mas a Marnie me deixa ficar assim mesmo. Como tenho sorte...",
+        "Fri6": "Definitivamente vou ao saloon hoje à noite. O que mais tenho a fazer?",
+        "Sat": "Por que você está me incomodando? Quero ficar só.",
+        "Sat2": "#$1 ShaneJOSH#Estou surpreso de você ainda tentar ser meu amigo.^Estou surpreso de você ainda tentar ser minha amiga. Será que não fui grosso o suficiente com você ainda?#$e#*Aaah...*$s",
+        "Sat4": "$d Joja#Alugo o quarto da Marnie por um bom preço. É pequeno, mas não posso reclamar.|Se eu pudesse começar a minha vida novamente, provavelmente criaria galinhas. Só animais criados ao ar livre, é claro.",
+        "Sat8": "Eu me apeguei bastante às galinhas da Marnie.$h",
+        "Sun": "Não dá para ver que estou ocupado?",
+        "Sun6": "Acho que estou ganhando peso.$s",
+        "Sun8": "Se eu assistir mais TV, talvez consiga esquecer um pouco a vida. Acho que isso me ajudaria a relaxar.$u",
+        "Sun10": "Oi, .@Até agora, tive um dia muito bom.$h",
+        "Sun4": "As horas? %time. Devo jogar uma pizza no micro-ondas, ou devo esperar descongelar?$u",
+        "Sun2": "Você de novo? Quantas vezes disse para você me deixar sozinho?$s",
+        "event_room1": "Certo... isso vai precisar de um grande roteiro. Acho que vou pedir conselhos para o Elliott da próxima vez que o vir no saloon.$s",
+        "event_room2": "Parece ótimo. Vou ter que criar uma penca de efeitos especiais para deixar isso mais legal.",
+        "danceRejection": "Não.$s",
+        "Thu8": "Você gosta de falar comigo? Acho que agredito em você... talvez você seja tão estranho quanto eu.^Talvez você seja tão estranha quanto eu.$h",
+        "event_noLoan1": "Não sabia que você era tão mão de vaca...$s",
+        "event_noLoan2": "Certo, papai...$s^Certo, mamãe...$s",
+        "event_noLoan3": "Uau...$s",
+        "event_apologize1": "É, eu também.",
+        "event_apologize2": "Eu sei... mas é por isso que parei aqui. Para contar isso a você.",
+        "event_apologize3": "Nossa, isso foi sério, né? Mal consigo me lembrar...",
+        "event_stadium1": "É? Acho que isso faz sentido.$6#$b#Eu? Eu me entendio com a Vila Pelicanos às vezes.#$b#Mas... gosto de você ser diferente. Nós equilibramos um ao outro.$l",
+        "event_stadium2": "É mesmo? Estou surpreso. Você não se mudou para o Vale do Orvalho para escapar do barulho da cidade?$6#$b#Quero dizer... não me leve a mal, eu entendo perfeitamente. A minha vida na Vila Pelicanos é muito sem graça, sabe?",
+        "divorced": "$a#$e#Deixe-me em paz.$a",
+        "pamHouseUpgrade": "Fiquei sabendo que você construiu uma casa para a Pam... Foi muita generosidade sua...#$b#Sabe, eu até aceitaria cem mil em ouro...#$e#*aah* ...Brincadeira. ...Heh.",
+        "pamHouseUpgradeAnonymous": "Fiquei sabendo que alguém comprou uma casa para a Pam... *suspiro*... O que é que a Pam fez para merecer tanta generosidade assim??",
+        "dumped_Guys": "%Shane parece estar estupefato. Ele não vai falar com você.",
+        "secondChance_Guys": "Não entendo você... *suspiro*...",
+        "breakUp": "*gole* Oh... É, ok... Eu devia ter previsto isso.$s#$b#Eu... é... acho que te vejo pelo Saloon."
+    }
+}

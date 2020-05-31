@@ -1,0 +1,32 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ei, você é muito bom em mineração, para um humano.",
+        "Mon": "Peguei todas essas coisas da superfície. Eu as pego do seu povo durante a noite.#$e#Hã? O que é isso de \"propriedade privada\"?",
+        "Tue": "Ah... bife de cenoura das cavernas, rosbife de cenoura das cavernas, sopa de cenoura das cavernas e arroz com cenoura das cavernas gratinadas...#$e#Um ramequin de cenoura das cavernas para ajudar a passar a noite.#$e#Quê?",
+        "Wed": "Ei, quer comprar alguma coisa?",
+        "Wed_6": "Há muito tempo, meu povo conheceu os segredos da tecnologia avançada. As evidências arqueológicas provam isso.#$e#Mas de onde será que vim? E onde tudo isso foi parar? Acho que algumas perguntas nunca serão respondidas...",
+        "Thu_4": "Eu me sinto mais confortável no subsolo.#$e#Quanto mais fundo, melhor.",
+        "Fri": "Você nunca viu um anão antes, não é?",
+        "Sat_8": "As minas podem ser um lugar traiçoeiro. Cuidado, colega.",
+        "Sat": "As minas são perigosas. Por que você não compra algumas coisas na minha loja para garantir sua segurança?",
+        "Sun": "Um dia, você vai ter que me contar tudo sobre essa bebida que vocês chamam de \"leite\".",
+        "Thu": "Você não é um espião enviado pelo Povo das Sombras, é?#$e#Estou de olho em você.",
+        "Fri_2": "A maioria dos humanos têm medo do desconhecido... é por isso que escondi a minha loja aqui.#$e#Suas habilidades de mineração provam que você é confiável."
+    }
+}

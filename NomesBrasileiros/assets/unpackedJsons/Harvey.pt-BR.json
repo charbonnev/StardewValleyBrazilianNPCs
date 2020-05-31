@@ -1,0 +1,62 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "É um prazer conhecer você. Meu nome é Harvey, o médico local.#$e#Faço exames de rotina e procedimentos médicos em todos os moradores da Vila Pelicanos. É um trabalho muito recompensador.#$e#Espero que um dia você ache o seu trabalho igualmente recompensador.$h",
+        "danceRejection": "Ah! Desculpe... Eu, er... tenho planos para pedir outra pessoa em namoro.$s",
+        "Mon": "Vendemos alguns remédios que não precisam de receita na clínica... dê uma passadinha aqui caso sinta esgotamento.#$b#Trabalhar na fazenda pode ser bem cansativo... não exagere!",
+        "Mon2": "Sinto-me responsável pela saúde de toda a comunidade... é meio estressante.#$e#Como ela é pequena, me sinto feliz de construir um bom relacionamento com meus pais.",
+        "Mon6": "Gostaria de ficar no Vale do Orvalho por um tempo. Estou começando a me sentir parte da comunidade.#$e#É bom saber que você é útil.",
+        "Mon10": "Ah! Oi, @.$l#$e#Você tem... alguma pergunta sobre sua saúde?$l",
+        "Tue": "Fique à vontade para passar no meu consultório caso não se sinta bem.#$e#Mas você é jovem. Provavelmente você continuará saudável sem esforço.$h",
+        "Tue8": "Não trabalhe demais, @. Ordens médicas!#$e#Sua saúde é muito importante para mim.$l",
+        "Wed4": "Gostaria de conhecer você melhor, @. Vamos deixar a relação médico-paciente um pouco de lado.",
+        "Wed6": "É bom ser amigo de alguém na cidade.$h",
+        "Wed8": "Sua saúde lhe dá um certo brilho. Isso é bom.$h",
+        "Wed": "Lembre-se de cobrir sua boca quando espirrar.#$e#E não se esqueça de lavar as mãos.",
+        "Thu8": "Ser médico dá muito trabalho. Não estou me alimentando tão bem quanto deveria.$s#$e#Se eu não morasse sozinho, talvez fosse mais fácil.$l",
+        "Thu": "Se alimentar bem é importante. Não pule as refeições. Experimente comer mais legumes!#$e#Não tem nada melhor que legumes cozidos em casa. Você cozinha?",
+        "Fri": "O dia está lindo, não acha?#$e#Gostaria de ter menos trabalho para fazer.$s",
+        "Fri4": "Se quiser passar no meu apartamento, tudo bem. Moro no andar de cima da clínica.",
+        "Fri10": "Passe na minha casa se precisar de um exame de rotina confidencial.$l",
+        "Sat": "Posso fazer algo por você?#$e#Cuide-se.",
+        "Sat4": "Eu vim aqui porque gostava do clima de cidade pequena e do potencial para uma abordagem holística do cuidado com o paciente.#$e#E eu passei a amar.$h",
+        "Sat8": "*Aaah*... Estou começando a me sentir velho...#$e#Quanto mais velho você fica, mais memórias você carrega.Às vezes, elas pesam demais.$s#$e#Acho que vou me manter jovem com você por perto.$l",
+        "Sun": "Huum... Estou fazendo das tripas coração. Não tenho pacientes o suficiente.#$e#Acho que devo tentar arrumar pacientes nas cidades vizinhas...",
+        "Sun6": "Imagine ter a vida de um paciente totalmente em suas mãos, e não conseguir mantê-lo vivo... é algo que assombra você para sempre.$s",
+        "event_george1": "Obrigado, @.$h#$b#Sabe, George, só estou tentando ajudar.",
+        "event_george2": "*Aaahhh*$s#$b#Olha, George. Se você quiser se comportar assim, vou ter que contar à sua esposa. Não acho que ela vai ficar feliz.",
+        "event_aerobics1": "Obrigado, @. Eu agradeço.$h",
+        "event_aerobics2": "*Aaah...* que falta de educação.$s",
+        "event_heart1": "Ah! Hospitais deixam você nervoso, não é?^Hospitais deixam você nervosa, não é?#$b#Tente relaxar. Estou aqui para ajudar.$h",
+        "event_heart2": "Certo. Isso faz sentido.",
+        "event_heart3": "Hum. Certo... Se você diz.$s",
+        "event_grave1": "... Você tem razão.#$b#... Obrigado.",
+        "event_grave2": "*Aaah*$s",
+        "summer_Mon": "Não tem problema pegar uma quantidade moderada de sol. Só não se queime.#$e#Certo. Cuide-se! Continue saudável.",
+        "summer_Thu": "Exercício é muito importante, mas não se esforce demais ou poderá parar na minha clínica!#$e#Escute o seu corpo.",
+        "summer_Fri": "As pessoas não ficam muito doentes durante o verão. Isso é muito bom, mas também significa menos negócios para mim.",
+        "fall_Fri": "Você está indo às minas, @?#$e#É um lugar perigoso. Recomendo que pare.",
+        "fall_Sat": "Quando você ingere certos alimentos, seu desempenho melhora.#$e#Comer uma \"Refeição de Fazendeiro\" dará a nutrição que você precisa para regar e colher as plantas!",
+        "winter_Wed": "É temporada de gripe, então tenha mais cuidado.#$e#Lave suas mãos com frequência.",
+        "winter_Sun": "Detesto dizer isso, mas ganho bastante dinheiro durante a temporada de gripe.#$e#Acho que se as pessoas parassem de ficar doentes, eu não teria mais emprego.#$e#Mas não me leve a mal! Eu realmente quero que todos sejam saudáveis... é sério!",
+        "divorced": "Eu... eu... não posso olhar para você. Por favor, poupe-me de sofrer mais.$s",
+        "dumped_Guys": "Não tenho tempo, por causa do trabalho. Não posso falar com você.$s",
+        "secondChance_Guys": "Quero você de volta em minha vida, @. Posso até esquecer o que aconteceu.$s",
+        "breakUp": "...V...Você...?$s#$b#*chora*... E... eu acho que vou ficar doente...$s"
+    }
+}
