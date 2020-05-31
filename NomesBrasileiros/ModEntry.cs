@@ -39,7 +39,6 @@ namespace NomesBrasileiros
 
         public bool CanLoad<T>(IAssetInfo asset)
         {
-            //if (asset.AssetNameEquals("Data/NPCDispositions.pt-BR"))
             if (asset.AssetNameEquals("Data/NPCDispositions"))
             {
                 return true;
